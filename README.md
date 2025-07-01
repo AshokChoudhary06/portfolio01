@@ -1,2 +1,2 @@
 # portfolio01
-Portfolio regarding my website
+Portfolio regarding my work and myself
